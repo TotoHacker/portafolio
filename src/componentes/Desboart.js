@@ -30,7 +30,7 @@ function Dashboard() {
         .catch((error) => {
           console.error("Error al consultar el estado del tiempo:", error);
           console.log("Error al consultar el estado del tiempo:", error);
-        });S
+        });
     }
   };
 
